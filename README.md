@@ -2,20 +2,20 @@
 
 
 # Checklist
-[ ] Create a component
-[ ] Create a service
-[ ] Modify the HTML and CSS of a component
-[ ] Bind variable into the template
-[ ] Component
+* [ ] Create a component
+* [ ] Create a service
+* [ ] Modify the HTML and CSS of a component
+* [ ] Bind variable into the template
+* [ ] Component
 * [ ] Call a method
 * [ ] NGIf
 * [ ] NgFor
-[ ] Call a service method from a component
-[ ] Create a class
-[ ] Create a Subject / Behavior Subject
-[ ] Subscribe to a subject
-[ ] Click Action
-[ ] Router
+* [ ] Call a service method from a component
+* [ ] Create a class
+* [ ] Create a Subject / Behavior Subject
+* [ ] Subscribe to a subject
+* [ ] Click Action
+* [ ] Router
 
 
 # angular-design-pattern
